@@ -1,4 +1,4 @@
-# Netflix
+# Movies
 
 A video streaming interface and media portal.
 
